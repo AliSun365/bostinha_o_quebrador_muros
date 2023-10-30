@@ -1,0 +1,15 @@
+Projeto: Bostinha: O Quebrador de Muros
+
+Criar um jogo estilo Breakout do Atari.
+O jogador irá usar uma barra e uma bolinha no canto inferior para quebrar os muros no topo da tela.
+A fase acaba quando todos os muros forem quebrados. 
+Os blocos(muros) serão coloridos, já a bolinha usada, branca. 
+O jogador irá usar as setas para esquerda, para a direita e também usará o espaço para atirar a bolinha.
+O jogador terá 3 vidas, cada vida será perdida quando a bolinha usada pra quebrar os muros retornar e passar da barra controlada pelo jogador.
+O jogador será representado pelo ícone de uma bostinha.
+Cada vida será representada por um ícone de bostinha no canto superior direito da tela.
+O jogo vai funcionar como um jogo flash, funcionará no navegador que o usuário desejar. 
+
+
+Exemplo do jogo:
+https://www.youtube.com/watch?v=AMUv8KvVt08&pp=ygUOQnJlYWtvdXQgQXRhcmk%3D
